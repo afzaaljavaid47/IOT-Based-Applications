@@ -35,7 +35,7 @@ The study's overarching goal is to build a sensor network-based IoT-based refrig
 
 The architecture diagram of the IoT device used in this application is:
 
-![Cloud Architecture Flow Diagram](path/to/your/diagram.png)
+![Cloud Architecture Flow Diagram](https://github.com/afzaaljavaid47/IOT-Based-Applications/blob/master/Fridge%20Freezer%20Automation%20System%20Using%20Azure%E2%80%99s%20IOT%20service/Flow%20Diagram.drawio.png)
 
 ### Flows of Application
 - Fridge Freezer IoT Device to IoT Hub
@@ -124,3 +124,13 @@ A React web app is hosted to visualize the data in graphs and charts etc.
 - James, S. J., Onarinde, B. A., & James, C. (2016). The Internet of Things for Smart Refrigeration. Journal of Smart Appliances.
 - Patel, K. K., Patel, S. M., & Scholar, P. (2016). Internet of Things-IoT: Definition, Characteristics, Architecture, Enabling Technologies, Application & Future Challenges. Journal of International Scientific Research.
 - Suhuai Luo, Jin, X., & Li, H. (2009). Development of a Smart Refrigerator. Journal of Embedded Systems and Applications.
+
+###
+
+## ✴️: Development Languages
+
+1. **Programming languages** : .NET
+2. **Tools** : Visual Studio, Azure Functions, Internet of Things
+   
+###
+
